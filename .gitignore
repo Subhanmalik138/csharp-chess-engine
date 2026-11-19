@@ -1,0 +1,15 @@
+## Build outputs
+bin/
+obj/
+out/
+
+## .NET / IDE
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## OS
+.DS_Store
+Thumbs.db
