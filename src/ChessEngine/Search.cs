@@ -12,7 +12,6 @@ public sealed class Searcher
 
     private readonly Board _board;
     private DateTime _deadline = DateTime.MaxValue;
-    private int _nodesSinceCheck;
 
     public long Nodes { get; private set; }
     public int MaxDepthReached { get; private set; }
